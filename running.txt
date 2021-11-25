@@ -1,0 +1,2 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                     PORTS               NAMES
+16a780c8ac23        midtermapp          "/bin/sh -c 'python …"   2 minutes ago       Exited (1) 2 minutes ago                       midtermrunning
